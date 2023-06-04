@@ -1,1 +1,2 @@
 # animedao_scraper
+This code is a web scraping script written in Python using the BeautifulSoup library. It scrapes information from multiple pages of the AnimeDao website and saves the data to a CSV file. The script specifically targets adventure genre anime from the website. The number of pages to scrape is defined by the num_pages variable. The scraped data includes the anime title, release date, and badge score. The information is written to a CSV file named "anime_info.csv" with UTF-8 encoding.
